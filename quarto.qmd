@@ -149,6 +149,7 @@ Below is a complete R / tidyverse workflow that (1) imports the CSV as-is, (2) t
 
 1)  Read the raw file (do not edit the CSV beforehand)
 ```{r}
+# I tried using the BOAST code format.
 library(readr)
 raw <- readr::read_csv("calcium.csv", col_types = cols(.default = col_double()))
 ```
