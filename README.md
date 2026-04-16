@@ -21,4 +21,4 @@ This repo will be structured in a pretty simple way. It'll contain all the files
 
 ## Authors
 
-Isabella Araujo De Moura
+Isabella A., isabella@psu.edu
