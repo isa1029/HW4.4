@@ -1,14 +1,10 @@
-# Project Title
+# STAT 184 Homework 4.4: GitHub Practice
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+This is a repo being used for my 4.4 homework in STAT 184. This includes R code, Quarto files, and other things related to it.
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
-
-### Interesting Insight (Optional)
-
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+The purpose of this is to mainly catalogue and organize all the code and things I used for 4.3 and 4.4 Homeworks. It contains the code and the final summaries of it.
 
 ## Data Sources and Acknowledgements
 
