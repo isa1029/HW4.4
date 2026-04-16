@@ -16,7 +16,7 @@ The plan is to make a comprehensive repo that contains all the data, code, and s
 
 ## Repo Structure
 
-This repo will be structured in a pretty simple way. It'll contain all the files needed in the main page, and if there are any supplementary files or materials, they'll be in labeled folders. 
+This repo will be structured in a pretty simple way. It'll contain all the files needed in the main page, and if there are any supplementary files or materials, they'll be in labeled folders so the only files in the main directory are the most important ones.
 
 
 ## Authors
